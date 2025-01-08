@@ -1,4 +1,4 @@
-from conector import ConectorMongoDB
+from MongoDB.conector import ConectorMongoDB
 
 conector = ConectorMongoDB()
 cliente = conector.conectarse()
