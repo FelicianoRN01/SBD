@@ -592,7 +592,7 @@ def guardar_set(nombre_set, elementos):
 def obtener_set(nombre_set):
     """
     Esta función obtiene un set de Redis.
-    
+
     Parámetros:
     nombre_set (str): El nombre del set.
     
